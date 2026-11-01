@@ -1,0 +1,7 @@
+node_modules
+dist
+.DS_Store
+
+# local env (copy from .env.example)
+.env
+.env.local
